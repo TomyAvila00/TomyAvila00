@@ -1,4 +1,5 @@
 <h1>Hola, soy Tomás Avila 😄</h1>
+###Full-Stack developer
 
 Poseo conocimiento en:
 
@@ -9,3 +10,11 @@ Poseo conocimiento en:
 ![myImage](https://user-images.githubusercontent.com/67989505/179308538-6d89ac67-0525-4337-91e0-758c6a08b336.png)
 ![myImage](https://user-images.githubusercontent.com/67989505/179308544-bf7fd3b4-5789-48a6-8a97-4ffa6b34a42c.png)
 ![myImage](https://user-images.githubusercontent.com/67989505/179308549-ea733cd5-3dd5-40cd-9672-157847157840.png)
+
+📌 Me gusta mucho React, HTML y CSS 💜.
+
+📌 Busco expandir mis conocimientos y colaborar con equipos de trabajo.
+
+📌 Pueden encontrarme tambien en [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-avila-18540a188/)💻
+
+📌 Tambien tengo email📧: tomyavila00@gmail.com
